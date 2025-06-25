@@ -3,7 +3,7 @@ Implementation of Radial Basis Function Neural Network (RBFNN) based system iden
 
 Project is implemented using MATLAB and Simulink environment. Use version 2023b
 
-Following Toolbox' must be installed in order to compile the project:
+# Following Toolbox' must be installed in order to compile the project:
 -Robotic System Toolbox
 -Simscape Multibody
 
