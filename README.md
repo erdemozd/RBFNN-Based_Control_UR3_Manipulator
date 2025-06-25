@@ -1,14 +1,29 @@
 # RBFNN-Based_Control_UR3_Manipulator
-Implementation of Radial Basis Function Neural Network (RBFNN) based system identification and control strategies for the UR3 robotic manipulator. Includes model training, trajectory tracking, and adaptive control applications.
 
-Project is implemented using MATLAB and Simulink environment. Use version 2023b
+Implementation of Radial Basis Function Neural Network (RBFNN) based system identification and control strategies for the UR3 robotic manipulator.  
+Includes model training, trajectory tracking, and adaptive control applications.
 
-# Following Toolbox' must be installed in order to compile the project:
--Robotic System Toolbox
--Simscape Multibody
+> **Note:** This project is developed using **MATLAB and Simulink (version 2023b)**.
 
-UR3 Manipulator used in the project is a mechanical model. In order to visualize the model, mechanic parts must be put in the "UR3 Manipulator" Simulink block. Part names are the same as the .stl files given in "Mechanic Part Models".
+---
 
+## 🧰 Required Toolboxes
 
+To run and compile the project successfully, ensure the following MATLAB toolboxes are installed:
 
+- Robotic System Toolbox  
+- Simscape Multibody
 
+---
+
+## 🦾 UR3 Manipulator Model
+
+The UR3 manipulator used in this project is a **mechanical model**.  
+To visualize the robot in simulation:
+
+1. Navigate to the **"UR3 Manipulator"** Simulink block.
+2. Insert the mechanical parts into the block.
+3. Use the `.stl` files provided in the **`Mechanic Part Models`** folder.
+4. Each Simscape part name must match the corresponding `.stl` filename.
+
+---
