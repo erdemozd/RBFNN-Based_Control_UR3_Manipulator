@@ -7,7 +7,7 @@ Includes model training, trajectory tracking, and adaptive control applications.
 
 ---
 
-## 🧰 Required Toolboxes
+## Required Toolboxes
 
 To run and compile the project successfully, ensure the following MATLAB toolboxes are installed:
 
@@ -16,7 +16,7 @@ To run and compile the project successfully, ensure the following MATLAB toolbox
 
 ---
 
-## 🦾 UR3 Manipulator Model
+## UR3 Manipulator Model
 
 The UR3 manipulator used in this project is a **mechanical model**.  
 To visualize the robot in simulation:
