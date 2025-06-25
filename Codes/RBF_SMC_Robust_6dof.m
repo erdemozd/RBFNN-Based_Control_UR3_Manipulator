@@ -1,3 +1,4 @@
+%% --- RBF-SMC Global Approach ---
 function [sys,x0,str,ts] = RBF_SMC_Robust_6dof(t,x,u,flag)
     switch flag
         case 0
