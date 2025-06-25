@@ -27,3 +27,4 @@ To visualize the robot in simulation:
 4. Each Simscape part name must match the corresponding `.stl` filename.
 
 ---
+Feel free to contact if you have any questions regarding the project.
