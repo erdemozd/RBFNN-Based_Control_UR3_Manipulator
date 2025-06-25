@@ -25,6 +25,7 @@ To visualize the robot in simulation:
 2. Insert the mechanical parts into the block.
 3. Use the `.stl` files provided in the **`Mechanic Part Models`** folder.
 4. Each Simscape part name must match the corresponding `.stl` filename.
+5. (Optional) Custom gripper model can also be added.
 
 ---
 Feel free to contact if you have any questions regarding the project.
