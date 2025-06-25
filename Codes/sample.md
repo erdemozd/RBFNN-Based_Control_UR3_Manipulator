@@ -1,8 +1,8 @@
-## 📁 Folder: `Codes/`
+## Codes
 
 This folder contains all MATLAB scripts and the main Simulink project for the RBFNN-based control of the UR3 manipulator.
 
-### 🔧 Main Files and Descriptions
+###  Main Files and Descriptions
 
 | File Name                             | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
