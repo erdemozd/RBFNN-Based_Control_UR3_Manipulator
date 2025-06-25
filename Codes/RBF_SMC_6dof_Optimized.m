@@ -1,5 +1,5 @@
+%% --- RBF-SMC Global Approximation ---
 function [sys,x0,str,ts] = RBF_SMC_6dof_Optimized(t,x,u,flag)
-% RBF-SMC Controller with 6-7-1 RBF network and stabilized control output
 global node c b Gamma 
 
 switch flag
