@@ -1,6 +1,6 @@
-# RBFNN-Based_Control_UR3_Manipulator
+# RBFNN-Based_Sliding_Mode_Control_UR3_Manipulator
 
-Implementation of Radial Basis Function Neural Network (RBFNN) based system identification and control strategies for the UR3 robotic manipulator.  
+Implementation of Radial Basis Function Neural Network (RBFNN) based system identification and sliding mode control strategies for the UR3 robotic manipulator.  
 Includes model training, trajectory tracking, and adaptive control applications.
 
 > **Note:** This project is developed using **MATLAB and Simulink (version 2023b)**.
