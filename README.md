@@ -11,7 +11,7 @@ Includes model training, trajectory tracking, and adaptive control applications.
 
 To run and compile the project successfully, ensure the following MATLAB toolboxes are installed:
 
-- Robotic System Toolbox  
+- Robotics System Toolbox  
 - Simscape Multibody
 
 ---
